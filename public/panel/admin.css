@@ -1,0 +1,42 @@
+
+/*---------------------
+  Admin Panel
+-----------------------*/
+#Bdesc{
+    height: 300px;
+}
+
+.main-sidebar{
+	overflow: hidden;
+}
+
+.admin-nav{
+	display: none;
+}
+
+.logo{
+	display: block !important;
+	height: 70px !important;
+}
+
+.logo-lg.title,
+.logo-mini.title{
+	margin-top: 10px;
+}
+
+.sidebar{
+	margin-top: 20px;
+}
+
+.tab-pane.p-color{
+	overflow-x:auto !important;
+}
+
+@media only screen and (max-width: 768px) {
+	.logo{
+		display: none !important;
+	}
+	.admin-nav{
+		display: inline-block;
+	}
+}

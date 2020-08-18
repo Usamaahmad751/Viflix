@@ -1,0 +1,3 @@
+Hi {{$name}}, 
+
+Thanks for choosing to work with viflix, we will start working on your project as soon as the payment is paid (receipt provided). We will be contacting you via email for further project details and sharing progress. The project will be shared with you for first revision after the selected days of delivery. You can have upto 3 revisions after that. Once you are satisfied, the final project will be sent to you.
